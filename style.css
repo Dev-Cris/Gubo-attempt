@@ -7,7 +7,7 @@
 
 body {
     display: flex;
-    
+    justify-content: space-around;
     background: #ffffff;
     height: 100vh;
     width: 400%;
